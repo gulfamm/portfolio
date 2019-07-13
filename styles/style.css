@@ -1,0 +1,96 @@
+.header h1 {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkorange;
+  border: 50px;
+}
+
+.main {
+  padding: 100px;
+}
+
+.main h1 {
+  color: black;
+  font-size: 34px;
+}
+.main h2 {
+  color: black;
+}
+.edu h2 {
+  border: 5px solid chocolate;
+  width: 300px;
+  font-size: 42px;
+}
+li {
+  font-size: 35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: whitesmoke;
+  font-style: normal;
+}
+.home {
+  padding-bottom: 100px;
+}
+.home h2 {
+  padding-bottom: 100px;
+}
+.hobbi {
+  float: left;
+  padding-bottom: 50px;
+}
+.hobbi h2 {
+  border: 5px solid chocolate;
+  width: 250px;
+  font-size: 42px;
+  margin-left: 10px;
+}
+.item {
+  float: left;
+  margin: 8px;
+}
+.item p {
+  font-size: 30px;
+  color: black;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hobbi span {
+  color: black;
+  size: 5px;
+}
+.edu span {
+  color: black;
+  size: 5px;
+}
+.footer h2 {
+  color: rgb(100, 32, 32);
+
+  padding: 40px;
+  margin-left: 20px;
+}
+.footer {
+  background-color: brown;
+  padding-top: 50px;
+}
+img {
+  border-radius: 50%;
+}
+.contact h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 50px;
+  float: right;
+}
+
+.name {
+  float: right;
+}
+.new {
+  float: right;
+}
+
+body {
+  background: url(../images/abc.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-size: cover;
+}
